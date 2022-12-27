@@ -1,0 +1,1 @@
+# VerificadorEntradas_Moxa
